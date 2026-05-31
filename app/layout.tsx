@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Snippix",
+  title: "Clip Code",
   description:
-    "Snippix is a tool that allows you to create beautiful code snippets.",
+    "Clip Code is a tool that allows you to create beautiful code snippets.",
 };
 
 export default function RootLayout({
