@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/owner",
-        destination: "https://github.com/owaish3301",
+        destination: "https://github.com/owaish3301/clipcode",
         permanent: true,
       },
     ];

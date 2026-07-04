@@ -32,7 +32,7 @@ export default function Navbar({
 
       <div className="flex items-center gap-2 sm:gap-4">
         <a
-          href="https://github.com/owaish3301/clip-code"
+          href="https://github.com/owaish3301/clipcode"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-sm text-neutral-400 hover:text-white transition-colors"

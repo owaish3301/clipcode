@@ -4,7 +4,7 @@ A simple tool for turning code into beautiful, shareable screenshots. Create
 clean images of your snippets and drop them straight into your blog posts,
 docs, or social media.
 
-Project live at: https://clip-code.vercel.app/
+Project live at: https://clipcode-mu.vercel.app/
 
 ---
 
